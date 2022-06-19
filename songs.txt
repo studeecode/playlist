@@ -1,8 +1,5 @@
 Artist			Song
 
-AC/DC			Back in Black
-Rhianna			Diamonds
-Stevie Nicks		Edge of Seventeen
-Eminem			Slim Shady
-Edith Piaff		No Regrets
-Johnny Cash		Walk the Line		
+Sittin on the Dock of the Bay	Otis Redding
+Mozart				Some Relaxing Song
+Silence				The Birds and Beez	
