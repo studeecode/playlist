@@ -3,4 +3,6 @@ Artist			Song
 AC/DC			Back in Black
 Rhianna			Diamonds
 Stevie Nicks		Edge of Seventeen
-Eminem			Slim Shady		
+Eminem			Slim Shady
+Edith Piaff		No Regrets
+Johnny Cash		Walk the Line		
